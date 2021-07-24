@@ -1,2 +1,3 @@
 rootProject.name = 'software-skill'
-include 'spring-boot'
+include 'spring'
+
